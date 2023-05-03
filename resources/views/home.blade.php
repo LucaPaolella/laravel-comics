@@ -21,11 +21,13 @@
 @extends('layouts.app')
 
 @section('page.title')
-Home Page La Molisana
+Home Page Comics
 @endsection
 
 @section('page.main')
-<div class="container">
-    <h1>Comics</h1>
-</div>
+<div class=" home-img">img</div>
+
+
+<h1 class="title">Current Series</h1>
+
 @endsection
