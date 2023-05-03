@@ -1,0 +1,16 @@
+.menu {
+    &__main {
+        li {
+            a {
+                text-decoration: none;
+                display: inline-block;
+                padding: .625rem .9375rem;
+                background: transparent;
+
+                &.active {
+                    background-color: $active_button;
+                }
+            }
+        }
+    }
+}

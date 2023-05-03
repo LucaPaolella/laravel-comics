@@ -1,7 +1,6 @@
 @import "~bootstrap/scss/bootstrap";
-
-
-
-body {
-    background-color: yellow;
-}
+@import "_partials/variables.scss";
+@import "_partials/typo.scss";
+//menu main
+@import "_partials/main_nav.scss";
+@import "_partials/products.scss"

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
@@ -16,4 +16,16 @@
 
 </body>
 
-</html>
+</html>-->
+
+@extends('layouts.app')
+
+@section('page.title')
+Home Page La Molisana
+@endsection
+
+@section('page.main')
+<div class="container">
+    <h1>Comics</h1>
+</div>
+@endsection

@@ -1,0 +1,13 @@
+.products {
+    background-image: url('../img/products-background.jpg');
+
+
+    &__card {
+        text-align: center;
+
+        h5 {
+            font-size: 1.25rem;
+        }
+    }
+
+}
