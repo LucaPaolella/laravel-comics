@@ -30,4 +30,21 @@ Home Page Comics
 
 <h1 class="title">Current Series</h1>
 
+<main>
+    <div class="container d-flex bd-highlight mb-3 flex-wrap">
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+        <div class="p-6 bd-highlight carta">img</div>
+    </div>
+</main>
+
 @endsection
